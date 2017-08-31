@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.jingle.soccernews.MainActivity"
+    >
+    <item
+        android:id="@+id/back"
+        android:icon="@drawable/ic_hupu"
+        android:showAsAction="always"
+        tools:ignore="AppCompatResource"
+        android:title="" />
+
+</menu>

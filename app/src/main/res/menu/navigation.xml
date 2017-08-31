@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_hupu"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ic_dongqiudi"
+        android:title="@string/title_dashboard" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/ic_zhiboba"
+        android:title="@string/title_notifications" />
+
+    <item
+        android:id="@+id/navigation_wangyi"
+        android:icon="@drawable/ic_wangyi"
+        android:title="@string/title_wangyi" />
+
+
+</menu>

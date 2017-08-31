@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">坚果足球</string>
+    <string name="title_home">虎扑</string>
+    <string name="title_dashboard">懂球帝</string>
+    <string name="title_notifications">直播吧</string>
+    <string name="title_wangyi">网易</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
